@@ -1,0 +1,21 @@
+<%# app/views/datatables/index.html.erb %>
+
+<%= react_component 'TimerApp', { data: @data } %>
+
+<style>
+table {
+    margin-top:20px;
+    width: 70%;
+    border-collapse: collapse;
+  }
+  td, th {
+    border: 1px solid #000000;
+    padding: 3px 7px 2px 7px;
+  }
+  th {
+    text-align: left;
+    padding: 5px;
+    background-color: #000000;
+    color: #fff;
+  }
+</style>

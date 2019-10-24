@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  startdate: 2019-10-23
+  stopdate: 2019-10-23
+  timer: MyString
+
+two:
+  title: MyString
+  startdate: 2019-10-23
+  stopdate: 2019-10-23
+  timer: MyString

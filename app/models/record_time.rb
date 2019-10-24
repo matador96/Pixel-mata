@@ -1,0 +1,2 @@
+class RecordTime < ApplicationRecord
+end

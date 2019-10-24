@@ -1,0 +1,2 @@
+class EcordsController < ApplicationController
+end
